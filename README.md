@@ -2,6 +2,8 @@
 
 **`Desenvolvedor Front-End`**
 
+### Sobre mim
+
 Sou um Desenvolvedor Front-End apaixonado por tecnologia e pela criação de interfaces modernas, performáticas e orientadas à experiência do usuário. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UNOPAR e sou de Maceió, Alagoas.
 
 Minha jornada na programação começou pela curiosidade em entender como os ambientes digitais funcionavam. Desde muito cedo sempre estive conectado ao universo da tecnologia, explorando jogos online como Tibia, o que despertou meu interesse em descobrir como sistemas digitais eram construídos.
