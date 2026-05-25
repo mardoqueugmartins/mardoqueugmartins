@@ -1,18 +1,15 @@
 # 👨🏻‍💻 Mardoqueu Martins
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Full Stack`**
 
 ### Sobre mim
 
-Sou um Desenvolvedor Front-End apaixonado por tecnologia e pela criação de interfaces modernas, performáticas e orientadas à experiência do usuário. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UNOPAR e sou de Maceió, Alagoas.
+Sou desenvolvedor web com experiência na criação de sites, landing pages e e-commerces focados em performance, experiência do usuário e conversão. Minha trajetória começou no design gráfico, o que me proporcionou uma visão estratégica sobre comunicação visual, construção de interfaces e comportamento do usuário. Com o tempo, evoluí para o desenvolvimento web, atuando como web designer unindo design e tecnologia para criar soluções mais completas e orientadas a resultados.
 
-Minha jornada na programação começou pela curiosidade em entender como os ambientes digitais funcionavam. Desde muito cedo sempre estive conectado ao universo da tecnologia, explorando jogos online como Tibia, o que despertou meu interesse em descobrir como sistemas digitais eram construídos.
+Desde 2021 participo do desenvolvimento de projetos para o mercado digital, atuando na criação de páginas e estruturas utilizadas em campanhas, lançamentos e negócios online que, somados, já movimentaram mais de R$5 milhões em vendas. 
 
-Iniciei minha carreira em 2019 trabalhando com design gráfico, desenvolvendo habilidades em comunicação visual e construção de interfaces. Em 2021 passei a integrar design e desenvolvimento, atuando na criação de sites, landing pages e e-commerces voltados para performance, experiência do usuário e conversão.
+Atualmente curso Engenharia de Software e sigo aprimorando minhas habilidades em desenvolvimento web, sempre buscando evoluir tecnicamente e construir interfaces modernas, performáticas e bem estruturadas. Tenho perfil autodidata, facilidade em aprender novas tecnologias e gosto de trabalhar em projetos que gerem impacto real para usuários e empresas.
 
-Ao longo dessa jornada participei do desenvolvimento de páginas utilizadas em projetos do mercado digital que, somados, já movimentaram milhões de reais em vendas, além de ter criado e comercializado meus próprios produtos digitais, que ultrapassaram R$250 mil em faturamento.
-
-Atualmente continuo evoluindo como desenvolvedor, estudando e construindo projetos com foco em interfaces modernas, código bem estruturado e soluções que gerem impacto real para usuários e negócios.
 
 <p align="left">
     <a href="https://github.com/mardoqueugmartins?tab=repositories&sort=stargazers">
